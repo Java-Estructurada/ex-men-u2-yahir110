@@ -27,5 +27,4 @@ int costoHospedaje =scan.next();
 
 
 
-
 }
